@@ -1,4 +1,4 @@
-#This is how you do what I did above in html
+#this is the html code for (tiyacox.github/notes)
 ///html      
 
       <h1 id="notes-for-web-dev">Notes for Web Dev.</h1>
