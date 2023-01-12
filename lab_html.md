@@ -1,4 +1,3 @@
-#this is the html code for (tiyacox.github/notes)
 
 ///html
 
