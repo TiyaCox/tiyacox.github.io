@@ -1,6 +1,6 @@
 #this is the html code for (tiyacox.github/notes)
-///html      
 
+///html      
       <h1 id="notes-for-web-dev">Notes for Web Dev.</h1>
 <h2 id="sping-2023">Sping 2023</h2>
 
